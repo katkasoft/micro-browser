@@ -19,8 +19,6 @@ pub fn run() {
                 .expect("main window not found");
             window.set_menu(menu)?;
 
-            window.set_title("Micro-browser").unwrap();
-
             let window_clone = window.clone();
 
             app.on_menu_event(move |_app, event| {

@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "micro-browser",
+  "productName": "browser",
   "version": "0.1.0",
   "identifier": "com.katkasoft.micro-browser",
   "build": {
@@ -10,7 +10,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "browser",
+        "title": "Browser",
         "width": 800,
         "height": 600
       }
