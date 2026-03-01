@@ -1,5 +1,5 @@
 # Micro-browser
-### A simple browser written in Tauri
+A simple browser written in Tauri
 
 ## Features:
 * Start Page
